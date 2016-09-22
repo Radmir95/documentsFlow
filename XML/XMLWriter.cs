@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace XML
 {
-    class Program
+    public class XMLWriter
     {
         static void Main(string[] args)
         {
