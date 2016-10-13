@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Чеки">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="НомерЧека" type="xs:int" />
+                <xs:element name="ДатаЧека" type="xs:dateTime" />
+                <xs:element name="Магазин" type="xs:string" minOccurs="0" />
+                <xs:element name="ФИОКассира" type="xs:string" minOccurs="0" />
+                <xs:element name="ОбщаяСтоимость" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ЗаписьЧека">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="НомерЗаписиЧека" type="xs:int" />
+                <xs:element name="НомерЧека" type="xs:int" />
+                <xs:element name="ДатаЧека" type="xs:dateTime" />
+                <xs:element name="Товар" type="xs:string" minOccurs="0" />
+                <xs:element name="ЦенаТовара" type="xs:int" minOccurs="0" />
+                <xs:element name="Количество" type="xs:int" minOccurs="0" />
+                <xs:element name="Стоимость" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Чеки" />
+        <xs:field xpath="НомерЧека" />
+        <xs:field xpath="ДатаЧека" />
+      </xs:unique>
+      <xs:unique name="ЗаписьЧека_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//ЗаписьЧека" />
+        <xs:field xpath="НомерЗаписиЧека" />
+        <xs:field xpath="НомерЧека" />
+        <xs:field xpath="ДатаЧека" />
+      </xs:unique>
+      <xs:keyref name="СвязьЧека" refer="Constraint1">
+        <xs:selector xpath=".//ЗаписьЧека" />
+        <xs:field xpath="НомерЧека" />
+        <xs:field xpath="ДатаЧека" />
+      </xs:keyref>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

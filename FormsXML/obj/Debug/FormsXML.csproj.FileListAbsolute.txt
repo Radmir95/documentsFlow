@@ -1,0 +1,11 @@
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\bin\Debug\FormsXML.exe.config
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\obj\Debug\FormsXML.csprojResolveAssemblyReference.cache
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\obj\Debug\FormsXML.Form1.resources
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\obj\Debug\FormsXML.Properties.Resources.resources
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\obj\Debug\FormsXML.csproj.GenerateResource.Cache
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\bin\Debug\FormsXML.exe
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\bin\Debug\FormsXML.pdb
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\bin\Debug\XML.exe
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\bin\Debug\XML.pdb
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\obj\Debug\FormsXML.exe
+C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\FormsXML\obj\Debug\FormsXML.pdb
