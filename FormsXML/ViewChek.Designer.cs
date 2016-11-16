@@ -40,7 +40,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(105, 156);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(278, 195);
+            this.dataGridView1.Size = new System.Drawing.Size(673, 195);
             this.dataGridView1.TabIndex = 0;
             // 
             // label_date
@@ -74,7 +74,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(508, 406);
+            this.ClientSize = new System.Drawing.Size(1047, 477);
             this.Controls.Add(this.label_nomer);
             this.Controls.Add(this.label_total);
             this.Controls.Add(this.label_date);

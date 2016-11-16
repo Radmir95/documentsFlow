@@ -4,3 +4,9 @@ C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\XML\bin\Debug\XML.pdb
 C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\XML\obj\Debug\DataFlowXML.csprojResolveAssemblyReference.cache
 C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\XML\obj\Debug\XML.exe
 C:\Users\Radmir.XTREME95\Source\Repos\documentsFlow\XML\obj\Debug\XML.pdb
+C:\Users\Radmir\Source\Repos\documentsFlow\XML\bin\Debug\XML.exe.config
+C:\Users\Radmir\Source\Repos\documentsFlow\XML\bin\Debug\XML.exe
+C:\Users\Radmir\Source\Repos\documentsFlow\XML\bin\Debug\XML.pdb
+C:\Users\Radmir\Source\Repos\documentsFlow\XML\obj\Debug\DataFlowXML.csprojResolveAssemblyReference.cache
+C:\Users\Radmir\Source\Repos\documentsFlow\XML\obj\Debug\XML.exe
+C:\Users\Radmir\Source\Repos\documentsFlow\XML\obj\Debug\XML.pdb

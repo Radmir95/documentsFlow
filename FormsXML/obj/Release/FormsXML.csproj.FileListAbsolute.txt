@@ -1,0 +1,11 @@
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\bin\Release\FormsXML.exe.config
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.AddChek.resources
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.Form1.resources
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.Properties.Resources.resources
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.ViewChek.resources
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.csproj.GenerateResource.Cache
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\bin\Release\FormsXML.exe
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\bin\Release\FormsXML.pdb
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.exe
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.pdb
+C:\Users\Radmir\Source\Repos\documentsFlow\FormsXML\obj\Release\FormsXML.csprojResolveAssemblyReference.cache
